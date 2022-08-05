@@ -5,7 +5,7 @@ Include the date you created this project and README file.
 8/5/22: I forked the currenty Udacity repository and cloned to my local machine on 8/2/22. That is when I created the README file as well.
 
 ### Project Title
-First Github project
+Bikeshare Github Project
 
 ### Description
 bikeshare_2.py is a python code that computes raw data and provides the user with statistical information for three major cities in the United States - Chicago, New York City and Washington. The collected raw data is about the bicycle-sharing system where users rent bicycles on short term basis for a price to go from point A to point B. The following information is collected: Start Time, End Time, Trip Duration, Start Station, End Station and User Type.
