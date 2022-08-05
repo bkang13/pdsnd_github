@@ -8,10 +8,14 @@ Include the date you created this project and README file.
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+bikeshare_2.py is a python code that computes raw data and provides the user with statistical information for three major cities in the United States - Chicago, New York City and Washington. The collected raw data is about the bicycle-sharing system where users rent bicycles on short term basis for a price to go from point A to point B. The following information is collected: Start Time, End Time, Trip Duration, Start Station, End Station and User Type.
+
+The python code computes and summaries the data to provide Popular Travel Times (month, day and hour), Popular Stations and Trips (start station and end station), Trip Duration (total travel time and average travel time) and User Typo.
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
