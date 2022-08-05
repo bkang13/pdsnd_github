@@ -2,6 +2,7 @@
 
 ### Date created
 Include the date you created this project and README file.
+8/5/22: I forked the currenty Udacity repository and cloned to my local machine on 8/2/22. That is when I created the README file as well.
 
 ### Project Title
 Replace the Project Title
