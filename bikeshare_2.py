@@ -23,7 +23,7 @@ def get_filters():
     #refactoring commit 2
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
-
+    #refactoring commit 3
 
     print('-'*40)
     return city, month, day
