@@ -18,13 +18,13 @@ def get_filters():
     """
     print('Hello! Let\'s explore some US bikeshare data!')
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
-
+    #refactoring commit 1
 
     # get user input for month (all, january, february, ... , june)
-
+    #refactoring commit 2
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
-
+    #refactoring commit 3
 
     print('-'*40)
     return city, month, day
