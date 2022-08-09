@@ -20,7 +20,7 @@ def get_filters():
     #refactoring commit 1
 
     # get user input for month (all, january, february, ... , june)
-
+    #refactoring commit 2
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
 
